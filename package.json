@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "Gallery",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --open",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/Gallery/",
     "preview": "vite preview"
   },
   "devDependencies": {
